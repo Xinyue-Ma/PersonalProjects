@@ -1,4 +1,4 @@
-# AnomalyDetection
+# Anomaly Detection
 
 This is a project under data mining. Rescourse are from DataWhale Community. The target is to apply principles of traditional anomaly detection methods using Python. 
 
