@@ -22,4 +22,4 @@ This is a project under data mining. Rescourse are from DataWhale Community. The
 - The isolated forest algorithm
 
 ## Resources 
-[Data Whale Team Learning](https://github.com/datawhalechina/team-learning-data-mining/tree/master/AnomalyDetection)
+[Data Whale Anomaly Detection Team Learning Github Page](https://github.com/datawhalechina/team-learning-data-mining/tree/master/AnomalyDetection)
