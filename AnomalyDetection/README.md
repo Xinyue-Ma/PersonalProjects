@@ -20,3 +20,6 @@ This is a project under data mining. Rescourse are from DataWhale Community. The
 - The basic concepts of integration method
 - The principle of feature bagging
 - The isolated forest algorithm
+
+## Resources 
+[Data Whale Team Learning](https://github.com/datawhalechina/team-learning-data-mining/tree/master/AnomalyDetection)
