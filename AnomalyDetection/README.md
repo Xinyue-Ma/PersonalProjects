@@ -1,6 +1,6 @@
 # Anomaly Detection
 
-This is a project under data mining. Rescourse are from DataWhale Community. The target is to apply principles of traditional anomaly detection methods using Python. 
+This is a project under [data mining](https://github.com/datawhalechina/team-learning-data-mining/tree/master/AnomalyDetection). Rescourse are from DataWhale Community. The target is to apply principles of traditional anomaly detection methods using Python. 
 
 ## Tasks:
 ### Task01: Introduction to Anomaly Detection (2 days)
