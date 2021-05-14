@@ -23,3 +23,4 @@ This is a project under [data mining](https://github.com/datawhalechina/team-lea
 
 ## Resources 
 [Data Whale Anomaly Detection Team Learning Github Page](https://github.com/datawhalechina/team-learning-data-mining/tree/master/AnomalyDetection)
+[《Outlier Analysis》——Charu C. Aggarwal]
