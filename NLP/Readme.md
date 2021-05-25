@@ -1,3 +1,32 @@
+# Description 
+NLP in Financial Markets 
+- Background study 
+- Exhaustive literature review on NLP models applicable to finance. Focus on last 3 years (2019-2021) 
+- Select 5-6 papers/models and create a presentation, 1 slide for each model 
+  - Why it is applicable to finance? 
+  - Advantages and disadvantages of model 
+- Select 2-3 models with “weak supervision” or “human in the loop” 
+- Check: https://www.aclweb.org/anthology/ 
+
+Dataset: 
+- You will be assigned a unique financial document dataset to work with. 
+- You will scrape/collect and clean that data 
+
+Prediction/Trading:
+- Write labeling functions  
+- After creating a measure one can create Knowledge graph, predict returns, predict earnings and identify fraud 
+
+# 5/25 Meeting with Agam:
+1. Tell me about the NLP project and its applications in data science kind of jobs in quant companies.
+
+Portfolio management / Develop trading stratgies
+3. What's the problem I will solve in this project?
+4. How can I break the projects steps ?(including timelines)? Road map?
+5. I registed the research project as letter grade mode. What is the Grading Scheme? What are the expectations?
+6. Resources? Where to get help.
+
+
+# Background:
 I worked under Dr. Chava and was tutored by Agam Shah. Agam is the first point of contact and he keeps Prof. Chava updated with the progress. He also schedule meetings with Prof. Chava based on progress.
 
 List: 
