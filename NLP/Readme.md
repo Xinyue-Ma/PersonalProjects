@@ -21,7 +21,7 @@ Prediction/Trading:
 3. What's the problem I will solve in this project?
 4. How can I break the projects steps ?(including timelines)? Road map?
 5. I registed the research project as letter grade mode. What is the Grading Scheme? What are the expectations?
-6. Resources? Where to get help.
+6. Resources? Where to get help. Group/Personal Project? Collaboration?
 
 
 # Background:
