@@ -17,9 +17,7 @@ Prediction/Trading:
 - After creating a measure one can create Knowledge graph, predict returns, predict earnings and identify fraud 
 
 # 5/25 Meeting with Agam:
-1. Tell me about the NLP project and its applications in data science kind of jobs in quant companies.
-
-Portfolio management / Develop trading stratgies
+1. Tell me about the NLP project and its applications in data science kind of jobs in quant companies. -> Portfolio management / Develop trading stratgies
 3. What's the problem I will solve in this project?
 4. How can I break the projects steps ?(including timelines)? Road map?
 5. I registed the research project as letter grade mode. What is the Grading Scheme? What are the expectations?
