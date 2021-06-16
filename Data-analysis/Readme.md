@@ -13,7 +13,6 @@ This project is divided into three parts, which are data exploration, data clean
 
 ## Tasks:
 1. Data exploration | 6/14-15
-
   1.1 Data loading
   
   1.2 Pandas
