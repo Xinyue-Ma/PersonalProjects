@@ -13,14 +13,23 @@ This project is divided into three parts, which are data exploration, data clean
 
 ## Tasks:
 1. Data exploration | 6/14-15
+
   1.1 Data loading
+  
   1.2 Pandas
+  
   1.3 Exploratory analysis
+  
 2. Data cleaning and processing 
   2.1 Data cleaning and feature engineering | 6/16-17
+  
   2.2 Data wrapping
+  
   2.3 Data wrapping | 6/18-19
+  
   2.4 Visualzation | 6/20-21
+  
 3. Modeling and evluation | 6/22-23
   3.1 Data modeling
+  
   3.2 Model evaluation
