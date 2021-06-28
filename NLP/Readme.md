@@ -46,9 +46,11 @@ https://www.youtube.com/watch?v=pSLzK-oBwDs
 3.
 
 # Progress:
-1. Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model
+### Step 1
+Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model
 
-2. Read and implement papers
+### Step 2
+1. Read and implement papers
 
 https://www.aclweb.org/anthology/D19-5102.pdf
 
@@ -56,8 +58,8 @@ https://arxiv.org/abs/2104.09683
 
 https://arxiv.org/abs/1711.10160
 
-3. Randomly draw ten 8-Ks per quarter from 1995-2020
+2. Randomly draw ten 8-Ks per quarter from 1995-2020
 
-4. Summarize Operational Risk. Write Labeling functions to get “operational risk” events.
+3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events.
 
 https://www.ior-institute.org/public/IORKRIGuidanceNov2010.pdf
