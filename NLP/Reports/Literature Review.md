@@ -1,23 +1,23 @@
 # Literature Review
 
 ## NLP Application in Finance
-1. Market Analysis: Apply classification/clustering method to analyze market
+1.Market Analysis: Apply classification/clustering method to analyze market
 
 - Micro: Stock price prediction
 
 - Macro: Market movement
 
-2. Risk Management: Apply classification method to detect fraud or defaults
+2.Risk Management: Apply classification method to detect fraud or defaults
 
-3. Compliance: Apply various NLP methods to verify compatibility to internal investment/loan rule
+3.Compliance: Apply various NLP methods to verify compatibility to internal investment/loan rule
 
-4. Asset Management: Apply various NLP methods to organize unstructured documents
+4.Asset Management: Apply various NLP methods to organize unstructured documents
 
 - Internal: Utilize internal documents
 
 - External: Utilize internal documents like SNS etc
 
-5. Customer Engagement: Apply Question Answering, Dialog to communicate with customer
+5.Customer Engagement: Apply Question Answering, Dialog to communicate with customer
 
 ## Literatures
 
