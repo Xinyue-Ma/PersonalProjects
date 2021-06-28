@@ -47,3 +47,10 @@ https://www.youtube.com/watch?v=pSLzK-oBwDs
 
 # Progress:
 1. Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model
+
+2. Read and implement papers
+https://www.aclweb.org/anthology/D19-5102.pdf
+
+https://arxiv.org/abs/2104.09683 
+
+https://arxiv.org/abs/1711.10160
