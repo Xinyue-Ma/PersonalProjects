@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=pSLzK-oBwDs
 3.
 
 # Progress:
-1. Literature review on 5 papers and dive deeper into the BERT model
+1. Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model
