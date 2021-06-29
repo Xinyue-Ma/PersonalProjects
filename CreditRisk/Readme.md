@@ -3,6 +3,7 @@
 ## Description
 ### Credit Scoring
 
+### Credit Rating
 
 ### Default Detection
 Credit Risk Modeling Utilizing Advanced Data Analytics
