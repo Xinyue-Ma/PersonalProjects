@@ -7,6 +7,7 @@
 - Portfolio Managament
 - Trading Strategy Analysis
 - Measuring Forecasting Skill from Text
+- Financial Event Prediction
 
 ### Stock Price Movement Prediction
 1. Using Python to perform data preprocessing and EDA (Exploratory Data Analysis) for energy commodities (e.g. CL, NG, HO) with visualization by pandas and Matplotlib.
