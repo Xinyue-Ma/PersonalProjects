@@ -14,3 +14,5 @@ Credit Risk Modeling Utilizing Advanced Data Analytics
 3. Worked with senior risk modelers to continue improving model performance by leveraging credit industry experts’ insights and explore new dataset (Tongdun score, Indicted times, Judgement Documents, Number of Inquiries) usage.
 
 4. Wrote technical documentation on Sharepoint, identified a few code errors and collaborate with developer team on fixing production issue after reviewing over 1000 lines of code.
+
+## Market Risk
