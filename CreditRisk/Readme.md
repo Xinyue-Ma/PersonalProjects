@@ -1,10 +1,10 @@
 # Credit Risk Analysis
 
 ## Description
-## Credit Scoring
+### Credit Scoring
 
 
-## Default Detection
+### Default Detection
 Credit Risk Modeling Utilizing Advanced Data Analytics
 
 1. Wrote various complex SQL queries to clean, integrate and analyze a variety of data sources from internal database and external third-party venders to generate predictive feature engineering (e.g. Velocity Features, Historical Data, Cross Sectional Analysis) to support the risk/modeling team.
@@ -15,4 +15,4 @@ Credit Risk Modeling Utilizing Advanced Data Analytics
 
 4. Wrote technical documentation on Sharepoint, identified a few code errors and collaborate with developer team on fixing production issue after reviewing over 1000 lines of code.
 
-## Market Risk
+### Market Risk
