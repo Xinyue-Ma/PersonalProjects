@@ -17,3 +17,11 @@ Credit Risk Modeling Utilizing Advanced Data Analytics
 4. Wrote technical documentation on Sharepoint, identified a few code errors and collaborate with developer team on fixing production issue after reviewing over 1000 lines of code.
 
 ### Market Risk
+
+### Mortgage 
+- Develop statistical and machine learning models as well as simulations to measure the full distribution of credit risk outcomes and detect potential credit risk
+- Design fully automated systems that capture risk across millions of users in 120+ countries
+- Use data and models to support the development of risk mitigation strategies and interventions while preserving and improving the user experience
+- Evolve our risk metrics, the datasets to support them, and the measurement of causal impact of initiatives to improve them
+- Develop and communicate the metrics narrative to Risk leaders
+- Shape and influence our data models and instrumentation to generate insights and develop new data products and models
