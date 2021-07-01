@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=pSLzK-oBwDs
 ### Step 1
 Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model.
 
-### Step 2
+### Step 2 Data gathering (-7/3)
 1. Read and implement papers.
 
 https://www.aclweb.org/anthology/D19-5102.pdf
@@ -63,3 +63,8 @@ https://arxiv.org/abs/1711.10160
 3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events.
 
 https://www.ior-institute.org/public/IORKRIGuidanceNov2010.pdf
+
+### Step 3 Data preprocessing (7/4-7/10)
+### Step 4 Modeling and evaluation (7/11-7/17)
+### Step 5 Prediction and application (7/18-7/24)
+### Step 5 Conclusion and present (7/25-7/30)
