@@ -1,0 +1,12 @@
+Skweak: Weak Supervision Made Easy for NLP
+
+1.	What is Skweak?
+Skweak is a python-based software toolkit to apply weak supervision to NLP tasks, such as text classification and sequence labelling. Weak supervisions use labelling functions derived from domain knowledge to automatically obtain annotations for a given dataset, then use generative model to estimate accuracy of each labelling functions.
+
+2.	Labeling functions:
+heuristics, gazetteers, machine learning models, and document-level functions
+
+3.	Advantages
+Snorkel requires data points to be independent. Skweak doesn’t have this requirement, which makes it to be able to apply to sequence labelling tasks.
+
+
