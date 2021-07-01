@@ -64,7 +64,7 @@ https://arxiv.org/abs/1711.10160
 
 https://www.ior-institute.org/public/IORKRIGuidanceNov2010.pdf
 
-### Step 3 Data preprocessing and lableing function (7/4-7/10)
+### Step 3 Data preprocessing and labeling function (7/4-7/10)
 ### Step 4 Modeling and evaluation (7/11-7/17)
 ### Step 5 Prediction and application (7/18-7/24)
 ### Step 5 Conclusion and present (7/25-7/30)
