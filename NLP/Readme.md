@@ -50,17 +50,17 @@ https://www.youtube.com/watch?v=pSLzK-oBwDs
 Literature review on 5 papers and dive deeper into the BERT model and weakly supervised model.
 
 ### Step 2 Data gathering (-7/3)
-1. Read and implement papers.
+1. Read and implement papers. **Model**
 
 https://www.aclweb.org/anthology/D19-5102.pdf
 
-https://arxiv.org/abs/2104.09683 
+https://arxiv.org/abs/2104.09683  https://github.com/NorskRegnesentral/skweak
 
-https://arxiv.org/abs/1711.10160
+https://arxiv.org/abs/1711.10160  https://github.com/HazyResearch/numbskull
 
-2. Randomly draw ten 8-Ks per quarter from 1995-2020.
+2. Randomly draw ten 8-Ks per quarter from 1995-2020. **data**
 
-3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events.
+3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events. **Experience **
 
 https://www.ior-institute.org/public/IORKRIGuidanceNov2010.pdf
 
