@@ -60,7 +60,7 @@ https://arxiv.org/abs/1711.10160  https://github.com/HazyResearch/numbskull
 
 2. Randomly draw ten 8-Ks per quarter from 1995-2020. **data**
 
-3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events. **Experience **
+3. Summarize Operational Risk. Write Labeling functions to get “operational risk” events. **Experience**
 
 https://www.ior-institute.org/public/IORKRIGuidanceNov2010.pdf
 
