@@ -24,12 +24,15 @@ Add $/lamda$ to the optimization problem and take the derivatives of each variab
 
 ## 2. Linear Algebra
 1. Vector space
-2. Vector and dot product
-- 'import numpy as np
+2. Vector
+- dot product
+```python
+import numpy as np
 a = np.array([a1, a2, a3])
 b = np.array([b1, b2, b3])
 c = np.dot(np.transpose(a), b)
-c = np.dot(a.T, b)'
+c = np.dot(a.T, b)
+```
 - linearly dependent and linearly independent. n Linearly independent vectors can form a vector space.
 - Schmidt process (格拉姆-施密特正交化)： 由线性无关向量组构建正交向量组
 Orthogonality (正交)
