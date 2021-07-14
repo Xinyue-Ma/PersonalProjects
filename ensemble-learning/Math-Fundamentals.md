@@ -10,4 +10,6 @@
 
 ## 1. Differential calculus
 1. **Gradient** of a differentiable function f is the vector field whose value at a point p is the vector whose components are the partial derivatives of f at p.
+2. **Jacobian Matrix**: $R_n->R_m$
+3. 
 
