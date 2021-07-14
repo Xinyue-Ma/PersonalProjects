@@ -12,8 +12,11 @@
 1. Three matrix
 
 **Gradient** of a differentiable function f is the vector field whose value at a point p is the vector whose components are the partial derivatives of f at p.
+
 **Jacobian Matrix**: R_n->R_m. Every role is a gradient vector.
+
 **Hessian Matrix**: Hessian matrix is the Jacobian Matrix of gradient vector.
+
 2. Optimization
 - Maxima and minima: f''(x0)<0-> Maxima, f''(x0)>0->Minima
 - Saddle point: not good
@@ -48,7 +51,8 @@ o
 4. Norm范数 -Measure distance
 f(x)>=0 f(ax)=|a|f(x) f(a+c)<=f(a)+f(c)
 5. Matrix
-$Ax = b$
+
+Ax = b
 
 
 
