@@ -8,6 +8,7 @@
 
 4. Stochastic process and sampling principle
 
-## 
+## Differential calculus
 
-` print(hello)`
+`def hello():
+  print('hello')`
