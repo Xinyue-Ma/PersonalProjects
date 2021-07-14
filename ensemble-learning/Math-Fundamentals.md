@@ -10,5 +10,4 @@
 
 ## Differential calculus
 
-```def hello():
-  print('hello')```
+
