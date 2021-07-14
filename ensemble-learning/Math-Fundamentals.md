@@ -44,6 +44,7 @@ c = np.dot(a.T, b)
 - Linearly dependent and linearly independent. n Linearly independent vectors can form a vector space.
 - Schmidt process (格拉姆-施密特正交化)： 由线性无关向量组构建正交向量组
 Orthogonality (正交)
+
 ```python
 from sympy.matrices import Matrix, GramSchmidt
 l = [Matrix([1,2,-1]), Matrix([-1,3,1]), Matrix([4,1,0])]
@@ -86,8 +87,11 @@ np.matmul(A.T, B)
 np.linalg.det(A)
 ```
 
+- Determinant: 衡量了矩阵的变换剧烈程度
 
+- Rank: k of n independant vector
 
+- Invertible matrix and othogonality matrix
 
 
 
