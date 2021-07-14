@@ -23,9 +23,11 @@
 - Multivariable: Hessian Matrix, positive-definite matrix->Minima:
 
 positive-definite matrix: determinant>0
+
 3. Lagrange multiplier-equality constraint optimization problem
 
 Add $/lamda$ to the optimization problem and take the derivatives of each variable and $/lamda$.
+
 4. Tayler
 
 ## 2. Linear Algebra
