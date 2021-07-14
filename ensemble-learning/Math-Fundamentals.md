@@ -8,6 +8,7 @@
 
 4. Stochastic process and sampling principle
 
-## Differential calculus
+## 1. Differential calculus
+
 
 
