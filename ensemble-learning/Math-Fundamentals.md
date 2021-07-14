@@ -50,9 +50,35 @@ o
 ```
 4. Norm范数 -Measure distance
 f(x)>=0 f(ax)=|a|f(x) f(a+c)<=f(a)+f(c)
+```python
+x = np.arange(12).reshape(3,4)
+np.linalg.norm(x,ord=1) #norm 1
+np.linalg.norm(x,ord=2) #norm 2
+np.linalg.norm(x,ord=np.inf) #norm inf
+```
+
 5. Matrix
 
 Ax = b
+```python
+# 写矩阵
+A = np.array([(1,2,3,4),(5,6,7,8),(9,10,11,12)]) #ndarray
+B = np.mat(A) #转化成matrix datatype
+m, n = 1,2
+np.zeros((m, n)) #全零矩阵
+np.ones((m, n)) #tuple #全1矩阵
+
+# 矩阵加法
+A = np.array([(1,2,3,4),(5,6,7,8),(9,10,11,12)])
+B = np.array([(1,2,3,4),(5,6,7,8),(9,10,11,12)])
+C = A + B
+
+# 矩阵乘法
+np.matmul(A.T, B)
+
+# 行列式
+np.linalg.det(A)
+```
 
 
 
