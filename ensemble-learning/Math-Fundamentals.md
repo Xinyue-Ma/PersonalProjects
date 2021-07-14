@@ -36,13 +36,16 @@ c = np.dot(a.T, b)
 - linearly dependent and linearly independent. n Linearly independent vectors can form a vector space.
 - Schmidt process (格拉姆-施密特正交化)： 由线性无关向量组构建正交向量组
 Orthogonality (正交)
-
 ```python
 from sympy.matrices import Matrix, GramSchmidt
 l = [Matrix([1,2,-1]), Matrix([-1,3,1]), Matrix([4,1,0])]
 o = GramSchmidt(l, True)
 o
 ```
+4. Norm范数 -Measure distance
+f(x)>=0 f(ax)=|a|f(x) f(a+c)<=f(a)+f(c)
+5. Matrix
+$Ax = b$
 
 
 
