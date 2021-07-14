@@ -38,7 +38,8 @@ Orthogonality (正交)
 from sympy.matrices import Matrix, GramSchmidt
 l = [Matrix([1,2,-1]), Matrix([-1,3,1]), Matrix([4,1,0])]
 o = GramSchmidt(l, True)
-o```
+o
+```
 
 
 
