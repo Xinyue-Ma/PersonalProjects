@@ -91,8 +91,7 @@ np.linalg.det(A)
 
 - Determinant: 衡量了矩阵的变换剧烈程度
 
-- 
-: k of n independant vector
+k of n independant vector
 
 - Invertible matrix and othogonal matrix
 
