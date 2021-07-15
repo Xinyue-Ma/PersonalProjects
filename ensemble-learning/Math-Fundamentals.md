@@ -125,7 +125,7 @@ l4 = np.linalg.norm(x, ord = 'fro')
  np.linalg.solve(x, b)
 ```
 
-7.Eigenvalue and eigenvectors
+7. Eigenvalue and eigenvectors
 - 矩阵变换之后方向不变
 
 行列式是矩阵体积变化的幅度，迹是行列式变化的速度（行列式的导数）。
