@@ -22,7 +22,9 @@
 - Saddle point: not good
 - Multivariable: Hessian Matrix, positive-definite matrix->Minima:
 
-positive-definite matrix: determinant>0
+positive-definite matrix: determinant>0 所有特征值为正
+
+negative-definite matrix: determinant<0 所有特征值为负
 
 3. Lagrange multiplier-equality constraint optimization problem
 
@@ -89,9 +91,68 @@ np.linalg.det(A)
 
 - Determinant: 衡量了矩阵的变换剧烈程度
 
-- Rank: k of n independant vector
+- 
+: k of n independant vector
 
-- Invertible matrix and othogonality matrix
+- Invertible matrix and othogonal matrix
+
+- Matrix Norm
+
+```python
+# norm-1
+x = np.array([[-1, 1, 0],[-4, 3, 0],[1,0, 2]])
+l1 = np.linalg.norm(x, ord = 1)
+# norm-2
+xtx = np.matmul(x.T, x)
+lamda = np.linalg.eigvals(xtx)
+np.sqrt(lamda[0])
+l2 = np.linalg.norm(x, ord = 2)
+# norm-info
+l3 = np.linalg.norm(x, ord = np.inf)
+# norm-fro
+l4 = np.linalg.norm(x, ord = 'fro')
+```
+
+6. Rank
+
+ ```
+ x = np.array([[-1, 1, 0],[-4, 3, 0],[1,0, 2]])
+ # 矩阵对秩
+ np.linalg.matrix_rank(x)
+ 
+ # 求解齐次线性方程组AX=b解空间:
+ x = np.array([[-1, 1, 0],[-4, 3, 0],[1,0, 2]])
+ b=np.ones((3,1))
+ np.linalg.solve(x, b)
+```
+
+7.Eigenvalue and eigenvectors
+- 矩阵变换之后方向不变
+
+行列式是矩阵体积变化的幅度，迹是行列式变化的速度（行列式的导数）。
+
+```
+np.linalg.eig(x) #Eigenvectors
+np.linalg.eigvals(x) #Eigenvalues
+
+# Trace
+trace = 0
+for i in range(0, len(x)):
+  trace = x[i,i] + trace
+```
+
+- Similar matrix
+
+Eigenvector: Ax = /lamda x -> x^(-1)Ax = /lamda -> /lamda is a diagonal matrix
+
+A and /lamda matrix are simiar matrix.
+
+8. Quadratic form
+
+A is a symmetric matrix. q(x)=x^T A x
+
+
+
 
 
 
