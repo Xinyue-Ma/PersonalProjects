@@ -30,7 +30,46 @@ negative-definite matrix: determinant<0 所有特征值为负
 
 Add $/lamda$ to the optimization problem and take the derivatives of each variable and $/lamda$.
 
-4. Tayler
+4. Tayler's theorem
+
+5. [Gradient descent vs newton method](https://imlogm.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/gradientDescent/)
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+def f(x):
+    return np.power(x, 2)
+
+def d_f_2(f, x, delta=1e-4):
+    return (f(x+delta) - f(x-delta)) / (2 * delta)
+
+# plot the function
+xs = np.arange(-10, 11)
+plt.plot(xs, f(xs))
+
+learning_rate = 0.1
+max_loop = 30
+
+x_init = 10.0
+x = x_init
+lr = 0.1
+x_list = []
+for i in range(max_loop):
+    d_f_x = d_f_2(f, x)
+    x = x - learning_rate * d_f_x
+    x_list.append(x)
+x_list = np.array(x_list)
+plt.scatter(x_list,f(x_list),c="r")
+plt.show()
+
+print('initial x =', x_init)
+print('arg min f(x) of x =', x)
+print('f(x) =', f(x))
+```
+
+
 
 ## 2. Linear Algebra
 1. Vector space
