@@ -52,9 +52,9 @@ Literature review on 5 papers and dive deeper into the BERT model and weakly sup
 ### Step 2 Data gathering (-7/3)
 1. Read and implement papers. **Model**
 
-https://www.aclweb.org/anthology/D19-5102.pdf
-
 https://arxiv.org/abs/2104.09683  https://github.com/NorskRegnesentral/skweak
+
+https://www.aclweb.org/anthology/D19-5102.pdf
 
 https://arxiv.org/abs/1711.10160  https://github.com/HazyResearch/numbskull
 
